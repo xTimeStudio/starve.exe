@@ -1,0 +1,11 @@
+#count {
+  width: 20px;
+  margin-bottom: 5px;
+}
+#xd {
+  width: 70px;
+  height: auto;
+  border-radius: 50%;
+  border: 5px brown solid;
+  background-color: #70252f;
+}
